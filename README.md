@@ -3,4 +3,6 @@ Momento de Retroalimentación: Módulo 2 Implementación de una técnica de apre
 
 # Archivos a revisar
 Week01_Challenge_LuisMaximilianoLopezRamirez.ipynb
+
+
 Week01_Challenge_LuisMaximilianoLopezRamirez.pdf
